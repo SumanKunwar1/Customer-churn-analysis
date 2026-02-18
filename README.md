@@ -1,6 +1,6 @@
 # ⬡ ChurnIQ — Customer Churn Prediction & Business Intelligence
 
-> **A full-stack data science project combining machine learning, EDA, and actionable business insights to predict and reduce customer churn in telecom.**
+> **A full-stack project combining machine learning, EDA, and actionable business insights to predict and reduce customer churn in telecom.**
 
 ---
 
