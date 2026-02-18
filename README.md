@@ -192,6 +192,7 @@ Navigate to `http://localhost:8501` in your browser.
 
 ## 👤 Author
 Suman Kunwar
+
 Demonstrates: data preprocessing, statistical EDA, supervised ML, model evaluation, business analytics, and full-stack deployment.
 
 ---
