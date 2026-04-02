@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/customer-churn-analysis/mlruns/917954786508511091/a638b65735f542bd906511276fa32635/artifacts
+end_time: 1775109435735
+entry_point_name: ''
+experiment_id: '917954786508511091'
+lifecycle_stage: active
+run_id: a638b65735f542bd906511276fa32635
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775109421503
+status: 3
+tags: []
+user_id: HP

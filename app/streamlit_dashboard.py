@@ -1,5 +1,5 @@
 """
-ChurnIQ v2.0 — Advanced Streamlit Dashboard
+ChurnIQ — Advanced Streamlit Dashboard
 Customer Churn Prediction & Business Intelligence
 
 Features:
@@ -25,7 +25,7 @@ from pathlib import Path
 
 # ── Page Config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="ChurnIQ v2.0 — Customer Churn Intelligence",
+    page_title="ChurnIQ — Customer Churn Intelligence",
     page_icon="⬡",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -149,7 +149,7 @@ def prepare_dataset(raw_df):
 
 # ── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## ⬡ ChurnIQ v2.0")
+    st.markdown("## ⬡ ChurnIQ ")
     st.markdown("**Advanced Churn Intelligence Platform**")
     st.divider()
 

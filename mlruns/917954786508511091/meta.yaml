@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/HP/OneDrive/Desktop/customer-churn-analysis/mlruns/917954786508511091
+creation_time: 1775109420925
+experiment_id: '917954786508511091'
+last_update_time: 1775109420925
+lifecycle_stage: active
+name: churn_prediction
+workspace: default
