@@ -221,7 +221,7 @@ def train_all_models(
     results = {}
 
     if track_mlflow:
-        mlflow.set_tracking_uri(str(PROJECT_ROOT / "mlruns"))
+        mlflow.set_tracking_uri((PROJECT_ROOT / "mlruns").as_uri())
         mlflow.set_experiment("churn_prediction")
 
     for name, base_model in MODELS.items():

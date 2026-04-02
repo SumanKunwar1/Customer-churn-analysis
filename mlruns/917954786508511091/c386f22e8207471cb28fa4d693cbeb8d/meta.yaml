@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/customer-churn-analysis/mlruns/917954786508511091/c386f22e8207471cb28fa4d693cbeb8d/artifacts
+end_time: 1775109464303
+entry_point_name: ''
+experiment_id: '917954786508511091'
+lifecycle_stage: active
+run_id: c386f22e8207471cb28fa4d693cbeb8d
+run_name: gradient_boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775109457840
+status: 3
+tags: []
+user_id: HP

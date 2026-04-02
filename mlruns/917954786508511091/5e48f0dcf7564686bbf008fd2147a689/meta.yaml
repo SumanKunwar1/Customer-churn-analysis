@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/customer-churn-analysis/mlruns/917954786508511091/5e48f0dcf7564686bbf008fd2147a689/artifacts
+end_time: 1775109728875
+entry_point_name: ''
+experiment_id: '917954786508511091'
+lifecycle_stage: active
+run_id: 5e48f0dcf7564686bbf008fd2147a689
+run_name: lightgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775109718211
+status: 3
+tags: []
+user_id: HP

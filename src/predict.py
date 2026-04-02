@@ -8,6 +8,7 @@ Features:
 - SHAP explanations for each prediction
 """
 
+import utils.session
 import logging
 import sys
 from pathlib import Path
